@@ -48,3 +48,4 @@ Contributions to this project are welcome. If you find any issues or have sugges
 
 - [OpenAI](https://www.openai.com/) for their powerful language models and API.
 - [Newtonsoft.Json](https://www.newtonsoft.com/json) for JSON serialization and deserialization.
+- [ReaLTaiizor](https://github.com/Taiizor/ReaLTaiizor) for design Windows Form
